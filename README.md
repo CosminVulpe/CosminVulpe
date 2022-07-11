@@ -9,7 +9,7 @@
 
 - 🌱 My plans to learn in 2022: **Node JS, Typescript, MongoDB, React with Redux**
 
-- ⚡ Fun fact: **In my free time, I like to work out, read books and explore nature**
+- ⚡ Fun fact: **In my free time, I like to work out, read books and explore the nature**
 
 
 <h3 align="left">Connect with me:</h3>
@@ -22,8 +22,7 @@
 
 <h3 align="left">Github statistics</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CosminVulpe&show_icons=true&locale=en" alt="cosminvulpe" /></p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CosminVulpe&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cosminvulpe&colormode=dark_mode" alt="cosminvulpe" /></p>
 
 <h3 align="left">Codewars statistics</h3>
-
+<p>&nbsp;<img align="center" src="https://github-readme-codewars-stats.herokuapp.com/api/?username=CosminVulpe&card&colormode=dark_mode" alt="cosminvulpe" /></p>

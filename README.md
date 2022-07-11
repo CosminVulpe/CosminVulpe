@@ -7,10 +7,13 @@
 
 - 🔭 I'm a freshly graduated **Full Stack developer from Codecool Bucharest**
 
+- 👨‍💻 Technologies I'm currently learning: **React, Spring Boot, Spring Security**
+
 - 🌱 My plans to learn in 2022: **Node JS, Typescript, MongoDB, React with Redux**
 
 - ⚡ Fun fact: **In my free time, I like to work out, read books and explore the nature**
 
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

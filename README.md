@@ -13,7 +13,6 @@
 
 - ⚡ Fun fact: **In my free time, I like to work out, read books and explore the nature**
 
-- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

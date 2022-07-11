@@ -22,7 +22,7 @@
 
 <h3 align="left">Github statistics</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CosminVulpe&show_icons=true&locale=en" alt="cosminvulpe" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cosminvulpe&colormode=dark_mode" alt="cosminvulpe" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cosminvulpe" alt="cosminvulpe" /></p>
 
 <h3 align="left">Codewars statistics</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-codewars-stats.herokuapp.com/api/?username=CosminVulpe&card&colormode=dark_mode" alt="cosminvulpe" /></p>

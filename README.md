@@ -1,4 +1,4 @@
-[![MasterHead](https://media0.giphy.com/media/NKEt9elQ5cR68/giphy.gif)](https://rishavchanda.io)
+![hello-world](https://user-images.githubusercontent.com/86559678/178959281-3017375c-f1cc-423b-9266-f2dfb7a14536.png)
 
 <h1 align="center">Hi 👋, I'm Cosmin Vulpe aka Fox</h1>
 <h3 align="center">My passion for programming arose from the curiosity to find out what is beyond the technologies used every day and how the concept behind the scenes of creating them. I am an organized, analyst person and I like to pay attention to small details. </h3>

@@ -1,7 +1,7 @@
 ![hello-world](https://user-images.githubusercontent.com/86559678/178959281-3017375c-f1cc-423b-9266-f2dfb7a14536.png)
 
 <h1 align="center">Hi 👋, I'm Cosmin Vulpe aka Fox</h1>
-<h3 align="center">My passion for programming arose from the curiosity to find out what is beyond the technologies used every day and the story behind them. I am an organized, analyst person and I like to pay attention to small details. </h3>
+<h3 align="center">My passion for programming arose from the curiosity to find out what is beyond the technologies used every day and the story behind them. I am highly organized and I enjoy paying attention to small details. </h3>
 <img align="right" alt="Coding-gif" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cosminvulpe&label=Profile%20views&color=0e75b6&style=flat" alt="cosminvulpe" /> </p>
@@ -26,12 +26,6 @@
 <h3 align="left">Most used languages statistics</h3>
 
 ![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cosminvulpe&count_private=true&show_icons=true&theme=dracula&layout=compact)
-
-<h3 align="left">Github statistics</h3>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CosminVulpe&theme=radical)](https://git.io/streak-stats)
-
-![My github stats](https://github-readme-stats.vercel.app/api?username=CosminVulpe&count_private=true&show_icons=true&theme=dracula)
 
 
 <h3 align="left">Codewars statistics</h3>

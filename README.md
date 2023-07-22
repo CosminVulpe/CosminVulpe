@@ -27,6 +27,3 @@
 
 ![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cosminvulpe&count_private=true&show_icons=true&theme=dracula&layout=compact)
 
-
-<h3 align="left">Codewars statistics</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-codewars-stats.herokuapp.com/api/?username=CosminVulpe&card&colormode=dark_mode" alt="cosminvulpe"/></p>

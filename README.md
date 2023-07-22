@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cosminvulpe&label=Profile%20views&color=0e75b6&style=flat" alt="cosminvulpe" /> </p>
 
-- 🔭 I'm a freshly graduated **Full Stack developer from Codecool Bucharest**
+- 🔭 I'm a **Junior Full-Stack Software Developer** at Unicredit Bank Bucharest.
 
-- 👨‍💻 Technologies I'm currently learning: **React, Spring Boot, Multithreading**
+- 👨‍💻 Technologies I'm currently working: **React, Typescript, Spring Boot, Spring Data**
 
-- 🌱 My plans to learn in 2022: **Node JS, Typescript, MongoDB, React with Redux**
+- 🌱 My plans to learn in 2023: **Cloud, Kubernetes, Docker**
 
 - ⚡ Fun fact: **In my free time, I like to work out, read books and explore the nature**
 

@@ -8,9 +8,9 @@
 
 - 🔭 I'm a **Junior Full-Stack Software Developer** at Unicredit Bank Bucharest.
 
-- 👨‍💻 Technologies I'm currently working: **React, Typescript, Spring Boot, Spring Data**
+- 👨‍💻 Technologies I'm currently working: **React, Typescript, Spring Boot, Spring Data, Microservices, Oracle DB, OpenShift**
 
-- 🌱 My plans to learn in 2023: **Cloud, Kubernetes, Docker**
+- 🌱 My plans to learn in 2024: **Cloud, Kubernetes, Docker**
 
 - ⚡ Fun fact: **In my free time, I like to work out, read books and explore the nature**
 
